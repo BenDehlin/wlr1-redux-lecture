@@ -5,6 +5,7 @@ const Header = (props) => {
     <header>
       <Link to='/movies'>Movies</Link>
       <Link to='/add_movie'>Add Movie</Link>
+      <Link to='/pokemon'>Pokemon</Link>
     </header>
   )
 }
