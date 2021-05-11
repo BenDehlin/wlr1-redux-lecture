@@ -8,6 +8,6 @@
 
 ## What you need to do to follow along
 1. fork/clone repo
-2. cd into the cloned repi
+2. cd into the cloned repo
 3. run `npm install`
 4. that's it, we'll do the rest in lecture
